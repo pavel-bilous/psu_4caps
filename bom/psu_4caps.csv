@@ -1,0 +1,16 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"H5,H4,H3,H2,H1";"MountingHole_3.2mm_M3_Pad_Via";5;"MountingHole";;;
+2;"C10,C9,C8,C7";"CP_Radial_D35.0mm_P10.00mm_SnapIn";4;"22,000u";;;
+3;"C6,C5,C4,C3,C2,C1,C12,C11";"C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2";8;"100n";;;
+4;"J12,J11";"Terminal_.25_PCB_TAB_TE_Connectivity_P5.08mm_";2;"V-";;;
+5;"J10,J9";"Terminal_.25_PCB_TAB_TE_Connectivity_P5.08mm_";2;"GND";;;
+6;"J8,J7";"Terminal_.25_PCB_TAB_TE_Connectivity_P5.08mm_";2;"V+";;;
+7;"J4";"Terminal_.25_PCB_TAB_TE_Connectivity_P5.08mm_";1;"AC4";;;
+8;"J3";"Terminal_.25_PCB_TAB_TE_Connectivity_P5.08mm_";1;"GND3";;;
+9;"J2";"Terminal_.25_PCB_TAB_TE_Connectivity_P5.08mm_";1;"GND2";;;
+10;"J1";"Terminal_.25_PCB_TAB_TE_Connectivity_P5.08mm_";1;"AC1";;;
+11;"J6,J5";"TerminalBlock_MetzConnect_Type059_RT06302HBWC_1x02_P3.50mm_Horizontal";2;"LED";;;
+12;"R6,R5,R4,R3";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";4;"10K";;;
+13;"R2,R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";2;"10R";;;
+14;"D3,D2";"D_0805_2012Metric_Pad1.15x1.40mm_HandSolder";2;"LED";;;
+15;"D1";"PB3510E345";1;"PB3510";;;

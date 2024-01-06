@@ -19,7 +19,7 @@ U 1 1 649D1B98
 P 4500 3500
 F 0 "C7" H 4588 3546 50  0000 L CNN
 F 1 "22,000u" H 4588 3455 50  0000 L CNN
-F 2 "Capacitor_THT:CP_Radial_D25.0mm_P10.00mm_SnapIn" H 4500 3500 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D35.0mm_P10.00mm_SnapIn" H 4500 3500 50  0001 C CNN
 F 3 "~" H 4500 3500 50  0001 C CNN
 	1    4500 3500
 	1    0    0    -1  
@@ -30,7 +30,7 @@ U 1 1 649D2ADD
 P 5050 3500
 F 0 "C9" H 5138 3546 50  0000 L CNN
 F 1 "22,000u" H 5138 3455 50  0000 L CNN
-F 2 "Capacitor_THT:CP_Radial_D25.0mm_P10.00mm_SnapIn" H 5050 3500 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D35.0mm_P10.00mm_SnapIn" H 5050 3500 50  0001 C CNN
 F 3 "~" H 5050 3500 50  0001 C CNN
 	1    5050 3500
 	1    0    0    -1  
@@ -69,7 +69,7 @@ U 1 1 649EAC7B
 P 4500 4500
 F 0 "C8" H 4588 4546 50  0000 L CNN
 F 1 "22,000u" H 4588 4455 50  0000 L CNN
-F 2 "Capacitor_THT:CP_Radial_D25.0mm_P10.00mm_SnapIn" H 4500 4500 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D35.0mm_P10.00mm_SnapIn" H 4500 4500 50  0001 C CNN
 F 3 "~" H 4500 4500 50  0001 C CNN
 	1    4500 4500
 	1    0    0    -1  
@@ -80,7 +80,7 @@ U 1 1 649EAC81
 P 5050 4500
 F 0 "C10" H 5138 4546 50  0000 L CNN
 F 1 "22,000u" H 5138 4455 50  0000 L CNN
-F 2 "Capacitor_THT:CP_Radial_D25.0mm_P10.00mm_SnapIn" H 5050 4500 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D35.0mm_P10.00mm_SnapIn" H 5050 4500 50  0001 C CNN
 F 3 "~" H 5050 4500 50  0001 C CNN
 	1    5050 4500
 	1    0    0    -1  
@@ -700,4 +700,15 @@ Connection ~ 5050 5000
 Connection ~ 5650 5000
 Wire Wire Line
 	5050 4000 5650 4000
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 65A5C1F9
+P 1500 7000
+F 0 "H5" H 1600 7046 50  0000 L CNN
+F 1 "MountingHole" H 1600 6955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1500 7000 50  0001 C CNN
+F 3 "~" H 1500 7000 50  0001 C CNN
+	1    1500 7000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
