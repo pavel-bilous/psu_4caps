@@ -2,7 +2,7 @@
 
 Resources used to design this board:
 
-TI application note AN-1849<br?
+TI application note AN-1849<br>
 An Audio Amplifier Power Supply Design (Rev. C)<br>
 https://www.ti.com/lit/pdf/snaa057
 
