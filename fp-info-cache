@@ -1,4 +1,4 @@
-18637556294620265
+18640942769107265
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -2077,6 +2077,13 @@ SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6
 IP67 ultra-miniture horizontal
 0
 8
+6
+Button_Switch_THT
+SW_SS-42H11_4PDT
+E-Switch sub miniature slide switch, EG series, DPDT, http://spec_sheets.e-switch.com/specs/P040047.pdf
+switch DPDT
+0
+6
 6
 Button_Switch_THT
 SW_Slide_1P2T_CK_OS102011MS2Q
@@ -82067,6 +82074,13 @@ Bridge Rectifier
 0
 4
 4
+local_footprints_lib
+TerminalBlock_ Amphenol_01_03_P3.50mm
+
+
+0
+3
+3
 local_footprints_lib
 Terminal_.25_PCB_TAB_TE_Connectivity_P5.08mm_
 

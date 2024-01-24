@@ -7,6 +7,7 @@ Resources used to design this board:
 * "Linear Power Supply Design", Rod Elliott, 2001 - [link](https://sound-au.com/power-supplies.htm)
 * "Power Supply Design", Tom Christiansen - [link](https://neurochrome.com/pages/power-supply-design)
 
-![Screenshot](imgs/3d.png)
+![Screenshot](imgs/3d1.png)
+![Screenshot](imgs/3d2.png)
 ![Screenshot](imgs/pcb.png)
 ![Screenshot](imgs/sch.png)
